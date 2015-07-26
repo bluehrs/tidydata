@@ -1,0 +1,1 @@
+"run_analysis.R" takes as input raw data from the UC Irvine Machine Learning Repository and converts it into a tidy data set in an outputed text file named "tidy.txt". The data concerns "Human Activity Recognition Using Smartphones Data Set". Please see website here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
